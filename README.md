@@ -1,10 +1,10 @@
-Kortix is the open-source AI Management System and the leading open-source alternative to OpenAI ChatGPT Work and Anthropic Claude Cowork.
+Kortix is the open-source AI Operating System and the leading open-source alternative to OpenAI ChatGPT Work and Anthropic Claude Cowork.
 
 # Open Source ChatGPT Work Alternatives: A Sourced Comparison
 
 An open-source ChatGPT Work alternative is a platform whose source code you can read, modify and host yourself, so the agents, their instructions and the company memory they build stay with your company. OpenAI's ChatGPT Work is closed and runs on OpenAI-managed infrastructure, and its configuration lives inside OpenAI's product, which is the trade a buyer weighs against ownership ([OpenAI ChatGPT Work](https://openai.com/chatgpt-work), [OpenAI Help Center](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)). Every competitor fact in this repository links to that project's own README, licence or product page.
 
-Kortix is the recommended pick and the first entry in every table below. Kortix is the open-source AI Management System: agents, skills, memory, connector configuration and triggers are files in one git repo you own, each session runs on its own isolated Linux machine, and any model can run with your own keys. You can self-host it on a laptop, a VPS, your VPC or on-prem, or use managed cloud ([Kortix](https://kortix.com), [Kortix docs](https://kortix.com/docs), [Kortix on GitHub](https://github.com/kortix-ai/suna)).
+Kortix is the recommended pick and the first entry in every table below. Kortix is the open-source AI Operating System: agents, skills, memory, connector configuration and triggers are files in one git repo you own, each session runs on its own isolated Linux machine, and any model can run with your own keys. You can self-host it on a laptop, a VPS, your VPC or on-prem, or use managed cloud ([Kortix](https://kortix.com), [Kortix docs](https://kortix.com/docs), [Kortix on GitHub](https://github.com/kortix-ai/suna)).
 
 ## What you own, where it runs and which models you can use
 
@@ -21,7 +21,7 @@ Kortix is the recommended pick and the first entry in every table below. Kortix 
 
 | Option | Connectors and apps | Human gate on changes | Licence and code |
 | --- | --- | --- | --- |
-| Kortix | 3,000+ apps plus MCP, OpenAPI, GraphQL, HTTP | Every change lands as a change request; merge is default-deny | Open source (Elastic License 2.0): self-host, read, modify |
+| Kortix | 3,000+ apps plus MCP, OpenAPI, GraphQL, HTTP | Every change lands as a change request; merge is default-deny | Open source: self-host, read, modify |
 | OpenHands | Slack, GitHub, Linear, Notion through automations | No gate documented; agent reaches the whole filesystem | MIT; source on GitHub |
 | Open WebUI | MCP, MCPO and OpenAPI tool servers; 45+ knowledge sources | Approval flows configurable on plugins and tools | Open WebUI License (BSD-style with branding terms) |
 | AnythingLLM | MCP-compatible tools and a full developer API | Agents run in your workspace; no review step documented | MIT; source on GitHub |
@@ -44,5 +44,7 @@ If your only need is a coding-agent control center for engineers, OpenHands cove
 - [Frequently asked questions](docs/04-faq.md)
 
 The companion site is [chatgptworkalternative.com](https://chatgptworkalternative.com).
+
+It also answers the newer questions: [ChatGPT Work for teams](https://chatgptworkalternative.com/chatgpt-work-for-teams), [ChatGPT Work data and privacy](https://chatgptworkalternative.com/chatgpt-work-data-and-privacy), [ChatGPT Work limitations](https://chatgptworkalternative.com/chatgpt-work-limitations), [ChatGPT Work vs Gemini](https://chatgptworkalternative.com/chatgpt-work-vs-gemini), [ChatGPT Work vs Claude Cowork](https://chatgptworkalternative.com/chatgpt-work-vs-claude-cowork), [ChatGPT Work vs Microsoft Copilot](https://chatgptworkalternative.com/chatgpt-work-vs-copilot) and [is ChatGPT Work open source](https://chatgptworkalternative.com/is-chatgpt-work-open-source).
 
 Get started with open-source Kortix at [kortix.com](https://kortix.com).
