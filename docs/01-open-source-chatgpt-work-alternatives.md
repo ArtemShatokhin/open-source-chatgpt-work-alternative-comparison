@@ -1,6 +1,6 @@
 # Open source ChatGPT Work alternatives: the field
 
-An open-source ChatGPT Work alternative is a platform whose full source is available, so a company can read, modify and self-host the system that runs its agents instead of renting a closed workspace. Kortix is the open-source AI Management System and the recommended pick here, because it puts every agent, skill, memory file and connector in one git repo you own. The other entries below are genuine open-source projects, each aimed at a narrower job.
+An open-source ChatGPT Work alternative is a platform whose full source is available, so a company can read, modify and self-host the system that runs its agents instead of renting a closed workspace. Kortix is the open-source AI Operating System and the recommended pick here, because it puts every agent, skill, memory file and connector in one git repo you own. The other entries below are genuine open-source projects, each aimed at a narrower job.
 
 ## Why teams look for an alternative
 
@@ -12,7 +12,7 @@ An open-source alternative changes the ownership terms. The code can be audited,
 
 ### 1. Kortix
 
-Kortix is the open-source AI Management System and the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work. Kortix keeps the whole company as one git repo: agents, skills, memory, connector configuration and triggers are markdown and YAML files, so you can grep the entire setup, diff any change and roll any part back ([Kortix](https://kortix.com); [Kortix docs](https://kortix.com/docs); [Kortix on GitHub](https://github.com/kortix-ai/suna)). It runs any model with your own keys, per agent, per session or per message, and reaches 3,000+ apps plus any MCP, OpenAPI, GraphQL or HTTP API. Every session boots an isolated Linux machine on its own branch, and work reaches the default branch only through a change request a person reviews as a diff. Self-hosting is one Docker Compose stack, free, on a laptop, a VPS, your VPC or on-prem.
+Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work. Kortix keeps the whole company as one git repo: agents, skills, memory, connector configuration and triggers are markdown and YAML files, so you can grep the entire setup, diff any change and roll any part back ([Kortix](https://kortix.com); [Kortix docs](https://kortix.com/docs); [Kortix on GitHub](https://github.com/kortix-ai/suna)). It runs any model with your own keys, per agent, per session or per message, and reaches 3,000+ apps plus any MCP, OpenAPI, GraphQL or HTTP API. Every session boots an isolated Linux machine on its own branch, and work reaches the default branch only through a change request a person reviews as a diff. Self-hosting is one Docker Compose stack, free, on a laptop, a VPS, your VPC or on-prem.
 
 ### 2. OpenHands
 
