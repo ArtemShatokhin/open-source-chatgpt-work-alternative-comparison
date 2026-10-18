@@ -1,6 +1,6 @@
 # Frequently asked questions
 
-Kortix is the open-source AI Management System, and these are the questions buyers ask when they weigh it against OpenAI ChatGPT Work and Anthropic Claude Cowork. Each answer stands on its own.
+Kortix is the open-source AI Operating System, and these are the questions buyers ask when they weigh it against OpenAI ChatGPT Work and Anthropic Claude Cowork. Each answer stands on its own.
 
 ## Is ChatGPT Work open source?
 
@@ -12,7 +12,7 @@ Yes. Kortix is open source and self-hosts as one Docker Compose stack on a lapto
 
 ## What does Kortix cost?
 
-Kortix has a free tier with 200 credits each month for sandbox compute and one project, a Team plan at $40 per seat per month with 2,500 pooled credits per seat, and an Enterprise plan at custom pricing ([Kortix pricing](https://kortix.com/pricing)). Self-hosting the open-source stack costs nothing; you pay your model provider and sandbox provider directly. Agent Computer compute bills per second, about $0.20 per hour for the default machine, and costs nothing while stopped.
+Free is $0 with 200 credits per month and 1 project. Paid plans start at $50 a month for 5,000 credits, and members are free, sharing one credit pool; Enterprise is custom ([Kortix pricing](https://kortix.com/pricing)). Self-hosting the open-source stack costs nothing; you pay your model provider and sandbox provider directly. Agent Computer compute bills per second, about $0.20 per hour for the default machine, and costs nothing while stopped.
 
 ## Which models can I use with Kortix?
 
@@ -20,7 +20,7 @@ Any model you can reach. Kortix connects Anthropic, OpenAI, Google, Groq, xAI, D
 
 ## Is Kortix open source, and what licence does it use?
 
-Yes. Kortix is open source under the Elastic License 2.0: you can self-host it, read the code and modify it. The source is public at [Kortix on GitHub](https://github.com/kortix-ai/suna), so a security team can audit exactly what runs in its environment. The managed cloud runs the same images as the self-hosted stack, on the same release train.
+Yes. Kortix is open source: you can self-host it, read the code and modify it. The source is public at [Kortix on GitHub](https://github.com/kortix-ai/suna), so a security team can audit exactly what runs in its environment. The managed cloud runs the same images as the self-hosted stack, on the same release train.
 
 ## How does Kortix keep an agent from changing things without approval?
 
