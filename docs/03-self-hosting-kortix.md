@@ -80,6 +80,6 @@ Each API container has a 640 MiB memory limit by default, which suits an 8 GiB h
 kortix self-host env set KORTIX_API_MEMORY_LIMIT=1024m
 ```
 
-Kortix is open source (Elastic License 2.0): self-host it, read and modify the code, and see the source at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+Kortix is open source: self-host it, read and modify the code, and see the source at [Kortix on GitHub](https://github.com/kortix-ai/suna).
 
 Get started with open-source Kortix at [kortix.com](https://kortix.com).
