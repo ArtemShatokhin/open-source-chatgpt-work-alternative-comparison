@@ -43,6 +43,7 @@ If your only need is a coding-agent control center for engineers, OpenHands cove
 - [Self-hosting Kortix: verified setup steps](docs/03-self-hosting-kortix.md)
 - [Frequently asked questions](docs/04-faq.md)
 - [ChatGPT Work vs Claude Cowork: what each keeps, and the open-source option](docs/06-chatgpt-work-vs-claude-cowork.md)
+- [ChatGPT Work vs Microsoft Copilot: where open source keeps the controls](docs/07-chatgpt-work-vs-microsoft-copilot.md)
 
 The companion site is [chatgptworkalternative.com](https://chatgptworkalternative.com).
 
