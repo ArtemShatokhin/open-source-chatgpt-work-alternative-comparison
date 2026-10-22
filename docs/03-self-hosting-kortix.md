@@ -4,7 +4,7 @@ Kortix is open source, and you can run the whole platform as one Docker Compose 
 
 ## Before you start
 
-You need a Linux, macOS or Windows machine with Docker, a domain whose A or AAAA record you can point at the box, and ports 80 and 443 open so the bundled Caddy proxy can issue a TLS certificate. Agent sessions run on a separate sandbox provider rather than on the Compose stack, so you also need a provider key. Daytona is the default; Platinum and E2B are supported. Self-hosting itself is free.
+You need a Linux, macOS or Windows machine with Docker, a domain whose A or AAAA record you can point at the box, and ports 80 and 443 open so the bundled Caddy proxy can issue a TLS certificate. Agent sessions run on a separate sandbox provider rather than on the Compose stack, so you also need a provider key. Platinum is the default; Daytona remains available as a legacy fallback. Self-hosting itself is free.
 
 ## The setup path
 
